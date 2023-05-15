@@ -1,0 +1,24 @@
+body{
+font-family: "Montserrat";
+font-size: 20px;
+}
+    
+:hover{
+    color: white;
+}
+
+.box1 {
+           height: 100vh;
+           background-color: lightblue;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+}
+
+.box2{
+           height: 100vh;
+           background-color: lightsalmon;
+           display: flex;
+           justify-content: space-around;
+           align-items: center;
+}
